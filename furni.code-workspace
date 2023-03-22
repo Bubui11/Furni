@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../javaScript"
+		},
+		{
+			"path": "../DELOTE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "furni"
+	}
+}
